@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611178486741_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611178486757_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611179505454_3" label="Curso 01 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse" name="Curso 01 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sintaxe-basica" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sintaxe-variaveis-e-fluxo" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611179584901_4" label="Curso 02 - Java OO: Introdução à Orientação a Objetos" name="Curso 02 - Java OO: Introdução à Orientação a Objetos">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank-composto" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank-encapsulado" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611179633125_5" label="Curso 03 - Java Polimorfismo: Entenda herança e interfaces" name="Curso 03 - Java Polimorfismo: Entenda herança e interfaces">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank-herdado-conta" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank-herdado" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611179707293_6" label="Curso 04 - Java Exceções: Aprenda a criar, lançar e controlar exceções" name="Curso 04 - Java Exceções: Aprenda a criar, lançar e controlar exceções">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank-herdado-conta-excecao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ennumerate" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-pilha" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Anotacoes" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611179745925_7" label="Curso 05 - Java e java.lang: Programe com a classe Object e String" name="Curso 05 - Java e java.lang: Programe com a classe Object e String">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank-herdado-conta-javalang" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611178489428_2" label="Window Working Set" name="Aggregate for window 1611178489428"/>
+</workingSetManager>
