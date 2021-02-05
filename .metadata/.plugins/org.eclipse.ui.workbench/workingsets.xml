@@ -23,6 +23,7 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611179745925_7" label="Curso 05 - Java e java.lang: Programe com a classe Object e String" name="Curso 05 - Java e java.lang: Programe com a classe Object e String">
 <item elementID="=bytebank-herdado-conta-javalang" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bytebank-biblioteca" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611178489428_2" label="Window Working Set" name="Aggregate for window 1611178489428"/>
 </workingSetManager>
